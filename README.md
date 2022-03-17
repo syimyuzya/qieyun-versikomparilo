@@ -6,7 +6,7 @@
 
 ```sh
 npm i
-npm i qieyun-test@file:<本地版 qieyun-js 路徑>
+npm i --no-save qieyun-test@file:<本地版 qieyun-js 路徑>
 # 記得先 build 本地版的 qieyun-js
 npm test
 ```
