@@ -1,0 +1,17 @@
+{
+  "name": "qieyun-versikomparilo",
+  "version": "0.1.0",
+  "description": "Plene kompari du versiojn de `qieyun-js` per `qieyun-examples`",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "SyiMyuZya",
+  "license": "ISC",
+  "dependencies": {
+    "qieyun-examples": "^20220316.0.0",
+    "qieyun-ref": "npm:qieyun@0.12.3",
+    "qieyun-test": "file:../../prog/nk2028/qieyun-js"
+  }
+}
